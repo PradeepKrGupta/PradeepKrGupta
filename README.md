@@ -67,8 +67,8 @@
 ## **📊 My Github Stats**
 
   <br/>
-    <a href="https://github.com/PradeepKrGupta/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PradeepKrGupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PradeepKrGupta/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKrGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/PradeepKrGupta/github-readme-stats"><img alt="PradeepKrGupta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=PradeepKrGupta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/PradeepKrGupta/github-readme-stats"><img alt="PradeepKrGupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradeepKrGupta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -84,10 +84,10 @@
 ## **Connect with me:**
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/pradeep-kumar-gupta-b696a7234/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
-<a href = "https://twitter.com/Pradeepgupta_39"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp;&nbsp;
-<a href = "https://www.instagram.com/pradeeprauniyarofficial/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp;&nbsp;
-<a href = "https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.linkedin.com/in/pradeep-kumar-gupta-b696a7234/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
+<a href = "https://twitter.com/Pradeepgupta_39" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp;&nbsp;
+<a href = "https://www.instagram.com/pradeeprauniyarofficial/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp;&nbsp;
+<a href = "https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
 
