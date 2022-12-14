@@ -1,4 +1,4 @@
-<h1 align="center"><img width="200px" height="auto" src="https://pbs.twimg.com/profile_images/502362219783262208/sTbN9xVK.jpeg"></h1>
+<h1 align="center"><img width="200px" height="auto" src="https://pbs.twimg.com/profile_images/502362219783262208/sTbN9xVK.jpeg](https://nicyberguy.com/wp-content/uploads/2022/03/shutterstock_1722014434-1-1024x576.png)"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
 <h2 align="center">I'm a Student, Developer and, YouTuber</h2>
