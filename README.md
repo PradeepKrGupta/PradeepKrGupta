@@ -80,8 +80,7 @@
 <br/>
 
 ## **Connect with me:**
-<p align="left">
-<a href = "https://pradeep-portfolio-web.vercel.app/" target="_blank"><img src="https://www.flaticon.com/free-icon/globe_2348099?term=website+logo&page=1&position=37&origin=tag&related_id=2348099"/></a>&nbsp;&nbsp;
+<p align="left"
 <a href = "https://www.linkedin.com/in/pradeep-kumar-gupta-b696a7234/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
 <a href = "https://twitter.com/Pradeepgupta_39" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/pradeeprauniyarofficial/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp;&nbsp;
