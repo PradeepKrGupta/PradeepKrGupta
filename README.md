@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ **About Me**
 
+- 🌐**[My Portfolio](https://pradeep-portfolio-web.vercel.app/)**
+
 - 🔭 Checkout my YouTube Channel: **[Power of Brains](https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg)**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m a **Full Stack Web Development/App Developer**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/PradeepKrGupta)**
 
 - 📫 How to reach me: **pradeeprauniyarofficial@gmail.com**
 
