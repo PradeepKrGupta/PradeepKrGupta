@@ -1,4 +1,6 @@
-<img width="600px" height=400px align="center" src="https://github.com/PradeepKrGupta/pradeepportfolio/blob/master/public/newimg.jpeg">
+<p align="center">
+  <img src="https://github.com/PradeepKrGupta/pradeepportfolio/blob/master/public/newimg.jpeg" alt="Image" style="max-width:100%; height:450px;">
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
 <h2 align="center">I'm a Student, Developer and, YouTuber</h2>
