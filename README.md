@@ -1,4 +1,4 @@
-<img width="800px" height="400px" align:center src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YxMG1wZ2Y0MXI3bmppaHBieGhzZ3Vrb3FvZWRpcXFyc2Jva3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif">
+<img width="800px" height="500px" align:center src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YxMG1wZ2Y0MXI3bmppaHBieGhzZ3Vrb3FvZWRpcXFyc2Jva3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
 <h2 align="center">I'm a Student, Developer and, YouTuber</h2>
