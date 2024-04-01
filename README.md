@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PradeepKrGupta/pradeepportfolio/blob/master/public/newimg.jpeg" alt="Image" style="max-width:100%; height:450px;">
+  <img src="https://github.com/PradeepKrGupta/pradeepportfolio/blob/master/public/newimg.jpeg" alt="Image" style="max-width:100%; height:400px;">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
