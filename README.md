@@ -1,4 +1,4 @@
-<h1 align="center"><img width="400px" height="auto" style="border-radius:50%;" src="https://camo.githubusercontent.com/fb92cbf5a2d658f3b8d87be9f44ac626e0060596395710dd2d5e5fecf5aeb11e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336b6c5a6b446966306e7341414141642f67616d696e672d6769662e676966"></h1>
+<h1 align="center"><img width="400px" height="auto" style="border-radius:50%;" src="[https://camo.githubusercontent.com/fb92cbf5a2d658f3b8d87be9f44ac626e0060596395710dd2d5e5fecf5aeb11e/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336b6c5a6b446966306e7341414141642f67616d696e672d6769662e676966](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2YxMG1wZ2Y0MXI3bmppaHBieGhzZ3Vrb3FvZWRpcXFyc2Jva3pybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wkSyGueYTnk40/giphy.gif)"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
 <h2 align="center">I'm a Student, Developer and, YouTuber</h2>
