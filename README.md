@@ -1,4 +1,4 @@
-<h1 align="center"><img width="200px" height="auto" style="border-radius:50%;" src="https://miro.medium.com/max/399/1*TFyKmO2II00Ily3lm_zmxw.jpeg"></h1>
+<h1 align="center"><img width="200px" height="auto" style="border-radius:50%;" src="[https://miro.medium.com/max/399/1*TFyKmO2II00Ily3lm_zmxw.jpeg](https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6)"></h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
 <h2 align="center">I'm a Student, Developer and, YouTuber</h2>
