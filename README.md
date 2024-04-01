@@ -1,4 +1,4 @@
-<img width="600px" height=auto align="center" src="https://miro.medium.com/v2/resize:fit:1358/1*jD0m-iEIUEehvQDiSSI5Eg.jpeg">
+<img width="auto" height=auto align="center" src="https://miro.medium.com/v2/resize:fit:1358/1*jD0m-iEIUEehvQDiSSI5Eg.jpeg">
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
 <h2 align="center">I'm a Student, Developer and, YouTuber</h2>
