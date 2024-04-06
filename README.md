@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/PradeepKrGupta/pradeepportfolio/blob/master/public/mygithubimage.jpg" alt="Image" style="max-width:100%; height:400px;">
+  <img src="https://png.pngtree.com/background/20230525/original/pngtree-blue-globe-with-lines-around-it-picture-image_2726634.jpg" alt="Image" style="max-width:100%; height:400px;">
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
