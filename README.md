@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
-<h2 align="center">I'm a Student, Developer and, YouTuber</h2>
+<h2 align="center">I'm a Student, Developer and, Data Science Enthusiast</h2>
 <br>
 
 ## 🙋‍♂️ **About Me**
@@ -13,6 +13,8 @@
 - 🔭 Checkout my YouTube Channel: **[Power of Brains](https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg)**
 
 - 🌱 I’m a **Full Stack Web Development/App Developer**
+
+- 😎 I’m a **Data Science Enthusiast**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
