@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ **About Me**
 
-- 🌐 My Website: **[My Portfolio](https://pradeep-portfolio-web.vercel.app/)**
+- 🌐 My Website: **[My Portfolio](https://pradeep-kr-gupta-portfolio.vercel.app/)**
 
 - 🔭 Checkout my YouTube Channel: **[Power of Brains](https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg)**
 
