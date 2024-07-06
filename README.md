@@ -25,7 +25,8 @@
 
 ## 🚀 **Languages and Tools:**
 
-<p align="left"> 
+<p align="left">
+  
   <h3>Fontend Languages: </h3>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
@@ -44,39 +45,24 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
 
-  <h3>Programming Lanugages and Tools</h3>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-right:8px;" href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+  <h3>Programming Lanugages and Tools: </h3>
+    <a style="padding-right:8px;" href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/> </a>
+    <a style="padding-right:8px;" href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000"/> </a>
+    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000"/> </a>
     
-  <h3>Extra Skills and Tools</h3>
+  <h3>Extra Skills and Tools: </h3>
     <img src="https://img.icons8.com/fluency/48/000000/picsart.png"/>
     <img src="https://img.icons8.com/fluency/48/000000/filmora.png"/>
     <img src="https://img.icons8.com/color/48/000000/inshot.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
-    
-    
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-   <!-- <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <!-- <img src="https://img.icons8.com/stickers/100/000000/c--v1.png" width="48" height="48"> -->
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png"/>
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48">
-    <img src="https://img.icons8.com/fluency/48/000000/autocad.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48">
     
 </p>
-
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
 
 <br>
 <p align="left">
