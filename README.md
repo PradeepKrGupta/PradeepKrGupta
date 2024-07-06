@@ -66,9 +66,7 @@
 
 <br>
 <p align="left">
-    <a href="https://github.com/PradeepKrGupta/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PradeepKrGupta streak" src="https://github-readme-streak-stats.herokuapp.com/?user=PradeepKrGupta&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=PradeepKrGupta&theme=dark)](https://git.io/streak-stats)
 </p>
 <br><br>
 
