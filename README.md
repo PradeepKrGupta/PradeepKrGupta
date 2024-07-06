@@ -27,42 +27,42 @@
 
 <p align="left">
   
-  <h3>Fontend Languages: </h3>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+  <h3>Frontend Languages: </h3>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="48" height="48" style="margin-right: 8px;"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" style="margin-right: 8px;"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" style="margin-right: 8px;"/> </a>
   
   <h3>Backend Languages and Tools: </h3>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a style="padding-right:8px;" href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/?size=48&id=WNoJgbzDr3i2&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=33039&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png" width="48" height="48" style="margin-right: 8px;"/> </a> 
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=tBBf3P8HL0vR&format=png&color=000000" alt="mongodb" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="48" height="48" style="margin-right: 8px;"/> </a> 
 
-  <h3>Programming Lanugages and Tools: </h3>
-    <a style="padding-right:8px;" href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000"/> </a>
-    <a style="padding-right:8px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000"/> </a>
+  <h3>Programming Languages and Tools: </h3>
+    <a href="https://docs.oracle.com/en/java/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13679&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://docs.python.org/3/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=13441&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
     
   <h3>Extra Skills and Tools: </h3>
-    <img src="https://img.icons8.com/fluency/48/000000/picsart.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/filmora.png"/>
-    <img src="https://img.icons8.com/color/48/000000/inshot.png"/>
-    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png"/>
-    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48">
-    
+    <a><img src="https://img.icons8.com/fluency/48/000000/picsart.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://img.icons8.com/fluency/48/000000/filmora.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/inshot.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" style="margin-right: 8px;"/></a>
 </p>
+
 
 <br>
 <p align="left">
