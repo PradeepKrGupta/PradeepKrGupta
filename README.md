@@ -32,7 +32,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" height="48" style="margin-right: 8px;"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="48" height="48" style="margin-right: 8px;"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="48" height="48" style="margin-right: 8px;"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
+    <a href="https://tailwindcss.com/docs/installation" target="_blank"> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="48" height="48" style="margin-right: 8px;"/> </a>
   
   <h3>Backend Languages and Tools: </h3>
