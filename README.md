@@ -66,7 +66,8 @@
 
 <br>
 <p align="left">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=PradeepKrGupta&theme=dark)](https://git.io/streak-stats)
+  <h3>Github Readme Streak Stats</h3>
+    <a href="https://streak-stats.demolab.com/?user=PradeepKrGupta&theme=dark)](https://git.io/streak-stats)"></a>
 </p>
 <br><br>
 
