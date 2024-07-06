@@ -65,11 +65,9 @@
 
 
 <br>
-<!-- https://streak-stats.demolab.com/?user=PradeepKrGupta&theme=dark)](https://git.io/streak-stats) -->
-<p align="left">
-    <a href="https://github.com/PradeepKrGupta/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="PradeepKrGupta streak" src="https://streak-stats.demolab.com/?user=PradeepKrGupta&theme=rising-sun)](https://git.io/streak-stats)"/>
-    </a>
+<p align="center">
+
+  
 </p>
 <br><br>
 
