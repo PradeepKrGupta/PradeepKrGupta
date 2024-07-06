@@ -51,16 +51,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png&color=000000" width="48" height="48" style="margin-right: 8px;"/> </a>
     
   <h3>Extra Skills and Tools: </h3>
-    <a><img src="https://img.icons8.com/fluency/48/000000/picsart.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://img.icons8.com/fluency/48/000000/filmora.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/inshot.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width="48" height="48" style="margin-right: 8px;"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" style="margin-right: 8px;"/> </a>
-    <a><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48" style="margin-right: 8px;"/></a>
-    <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" style="margin-right: 8px;"/></a>
+    <span><img src="https://img.icons8.com/fluency/48/000000/picsart.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://img.icons8.com/fluency/48/000000/filmora.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://img.icons8.com/color/48/000000/inshot.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" width="48" height="48" style="margin-right: 8px;"/> </span>
+    <span href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="48" height="48" style="margin-right: 8px;"/> </span>
+    <span><img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://img.icons8.com/color/48/000000/microsoft-word-2019--v2.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" width="48" height="48" style="margin-right: 8px;"/></span>
+    <span><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" style="margin-right: 8px;"/></span>
 </p>
 
 
