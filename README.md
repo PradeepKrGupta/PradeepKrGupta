@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Pradeep</h1>
-<h2 align="center">I'm a Student, Developer and, Data Science Enthusiast</h2>
+<h2 align="center">I'm a Student, Full-Stack Developer and, Data Science Enthusiast</h2>
 <br>
 
 ## 🙋‍♂️ **About Me**
@@ -20,14 +20,14 @@
 
 - 📫 How to reach me: **pradeeprauniyarofficial@gmail.com**
 
-- ⚡ Fun fact **I love to play Cricket, Chess and, Watching Marvel Movies**
+- ⚡ My Hobbies **I love to play Cricket, Chess and, Watching Marvel Movies**
   <br><br>
 
 ## 🚀 **Languages and Tools:**
 
 <p align="left"> 
-    <!-- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a> -->
-    <!-- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> -->
+  ## 🚀 **Frontend Languages:**
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <!-- <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a>  -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -39,6 +39,7 @@
     <img src="https://img.icons8.com/color/48/000000/inshot.png"/>
     <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png"/>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000"/> </a>
    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
     <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> --> 
