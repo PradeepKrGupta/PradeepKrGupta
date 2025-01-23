@@ -90,7 +90,7 @@
 ## **Connect with me:**
 <p align="left"
 <a href = "https://www.linkedin.com/in/pradeep-kumar-gupta-b696a7234/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>&nbsp;&nbsp;
-<a href = "https://twitter.com/Pradeepgupta_39" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp;&nbsp;
+<a href = "https://x.com/brainfidelity" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>&nbsp;&nbsp;
 <a href = "https://www.instagram.com/pradeeprauniyarofficial/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>&nbsp;&nbsp;
 <a href = "https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
