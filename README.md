@@ -10,7 +10,7 @@
 
 - 🌐 My Website: **[My Portfolio](https://pradeepkrgupta.vercel.app/)**
 
-- 🔭 Checkout my YouTube Channel: **[Power of Brains](https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg)**
+- 🔭 Checkout my YouTube Channel: **[Brain Fidelity](https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg)**
 
 - 🌱 I’m a **Full Stack Web Development/App Developer**
 
