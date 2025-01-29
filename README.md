@@ -12,7 +12,7 @@
 
 - 🔭 Checkout my YouTube Channel: **[Brain Fidelity](https://www.youtube.com/channel/UCzS2cOP4baaVZZiUQkmvCpg)**
 
-- 🌱 I’m a **Full Stack Web Development/App Developer**
+- 🌱 I’m a **Full Stack Web/App Developer**
 
 - 😎 I’m a **Data Science Enthusiast**
 
